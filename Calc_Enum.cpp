@@ -2,6 +2,7 @@
 using namespace std;
 enum OpType { Add = '+', Sub = '-', Mul = '*', Dvd = '/'};
 //This is my comment you can kiss my ass akhpar
+//You have no HONOR! MURDERER! SODOMIZER!
 int main()
 {
 	OpType op;
